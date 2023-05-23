@@ -17,7 +17,7 @@ namespace CovidApp
         public CovidVisualization()
         {
             InitializeComponent();
-            FileReader fr = new FileReader("hello.txt");
+            FileReader fr = new FileReader("Cases_and_Deaths_CRDT_NEW.csv");
             allState = fr.getAllData();
         }
 

@@ -1,0 +1,3 @@
+State, Case_b, Death_d, Case_a, Case_c, Death_f, Case_e, Death_g, Death_h
+DC, 150, 345, 80, 435, 90, 400, 180,350
+WA, 2432, 234,234, NA, 4555

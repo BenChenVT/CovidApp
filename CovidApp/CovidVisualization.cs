@@ -13,10 +13,6 @@ namespace CovidApp
 {
     public partial class CovidVisualization : Form
     {
-
-        // data will be stored here
-        List<int> x = new List<int>();
-        List<int> y = new List<int>();
         LinkedList<DataProcess> allState = null;
         public CovidVisualization()
         {
